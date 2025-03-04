@@ -2,20 +2,11 @@
 <img alt='CSS App' src='https://github.com/dev-mostafa-ali/css-app/assets/72570901/b18f3ebe-ba4d-46e2-992f-9e3cce71407c'></img>
 <h2>
   <p align='center'>PageSpeed Insights 
-<<<<<<< HEAD
 <a href='https://pagespeed.web.dev/'>Link!</a>
-=======
-<a href='https://pagespeed.web.dev/'>Live Link!</a>
->>>>>>> 21a0d277ff75a9d8a321e6ffdf469b085d3b8cdb
-    </p>
 </h2>
 <h2>
   <p align='center'>CSS App 
-<<<<<<< HEAD
 <a href='https://dev-mostafa-ali.github.io/css-app/'>Live URL!</a>
-=======
-<a href='https://mostafa-ali-a.github.io/CSS-App/'>Live URL!</a>
->>>>>>> 21a0d277ff75a9d8a321e6ffdf469b085d3b8cdb
     </p>
 </h2>
 <h1>
